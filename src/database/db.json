@@ -1,12 +1,6 @@
 [
-    {
-        "id": 1,
-        "name": "Product - 1",
-        "price": 20
-    },
-    {
-        "id": 2,
-        "name": "Product - 2",
-        "price": 35
-    }
+    { "id": 1, "name": "Product - 1", "price": 20 },
+    { "id": 2, "name": "Product - 2 Updated", "price": 23 },
+    { "id": 1794591249429, "name": "Iphone 18 pro max", "price": 1900 },
+    { "id": 1794591273571, "name": "Product - 4 Updated", "price": 190 }
 ]
